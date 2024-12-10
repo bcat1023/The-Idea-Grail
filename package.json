@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@carbon/icons": "^11.53.0",
+    "@carbon/styles": "^1.71.0",
+    "@carbon/type": "^11.33.0",
+    "@carbon/web-components": "^2.19.0",
+    "modern-normalize": "^3.0.1",
+    "sass": "^1.82.0"
+  },
+  "name": "ideashelf",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch index.scss:index.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

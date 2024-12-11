@@ -27,7 +27,7 @@ npm run sass
 * Copy the files to your webserver of choice
 
 ## Author
-[@Nook.8081](https://nookalley.com)
+Developer: [@Nook.8081](https://nookalley.com)
 
 ## Major Versions
 This is a continuous repo, there are no real releases.

@@ -1,7 +1,7 @@
 const button = document.querySelectorAll('cds-button');
 const submitButton = document.getElementsByClassName('textblock')
 const bar = document.querySelector('cds-progress-bar');
-const domain = 'nkalley-ideashelf-developer-1.gateway-nookalley.workers.dev'
+const domain = 'nkalley-ideashelf-production-1.gateway-nookalley.workers.dev'
 
 var input = document.getElementById("cds-search")
 

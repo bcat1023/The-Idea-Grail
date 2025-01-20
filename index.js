@@ -16,7 +16,7 @@ button.forEach(button => {
             button.innerHTML = `${svgSecondary}&nbsp&nbsp&nbsp Added`
         } else {
             button.setAttribute('kind', 'primary');
-            button.innerHTML = `${svg}&nbsp&nbsp&nbsp Add to list`
+            button.innerHTML = `${svg}&nbsp&nbsp&nbsp Add vote`
         }
     });
 });

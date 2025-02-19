@@ -39,6 +39,9 @@ This is a continuous repo, there are no real releases.
     * This is a beta development version
     * DO NOT USE THIS VERSION, it is incomplete
 
+## Security
+I know the security is bad on this repo, ill fix it eventually (v2 goals?)
+
 ## License
 
 This project is licensed under the GNU AGPLv3 License - see the LICENSE.md file for details
